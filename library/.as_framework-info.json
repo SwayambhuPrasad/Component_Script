@@ -1,0 +1,1322 @@
+{
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs": {
+    "time": 1661251362055.0835,
+    "uuid": "1d57cce5-533d-4ce8-abfe-c5fa3f163067",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts": {
+    "time": 1662535008974.3623,
+    "uuid": "f8f3fbca-a028-40ad-8a8d-b23f63978447",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sounds": {
+    "time": 1659432791861.3928,
+    "uuid": "e7e7a51a-ed3c-451c-bbfa-ffd9331b7101",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites": {
+    "time": 1659432791864.8047,
+    "uuid": "233676d0-0e9d-40c4-a6ef-50b38c15d972",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons": {
+    "time": 1659432791839.1199,
+    "uuid": "b97fe90e-dc65-432e-aea1-d1b2e52c2da3",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Dropdown": {
+    "time": 1659432791839.4395,
+    "uuid": "08b06dda-c99f-4bc9-ba46-4fe94fdaabed",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad": {
+    "time": 1659432791840.3953,
+    "uuid": "c22de32f-5123-4192-8f21-04b785c02e9f",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu": {
+    "time": 1659432791842.574,
+    "uuid": "021f2f0e-bca8-4975-9a66-b6e0f3f8d3e8",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page": {
+    "time": 1659432791843.2283,
+    "uuid": "c9d8020c-c7b5-4f2f-90c1-c41ec9673b5d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Popup": {
+    "time": 1661251362055.4636,
+    "uuid": "9be5e3ee-b79f-4258-82da-29f993b4eb85",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Toggle": {
+    "time": 1659432791843.701,
+    "uuid": "d632183d-4dac-4b96-be74-2e7f2e49ab1f",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ASComponent.ts": {
+    "time": 1659432791843.8965,
+    "uuid": "7f07e5ca-681d-49bd-86e6-06504430b849",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/AppletConfig.ts": {
+    "time": 1661251362055.6626,
+    "uuid": "1642bafb-febb-499f-b77a-e0bcbb812add",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/BiDirectionalMap.ts": {
+    "time": 1659432791844.1594,
+    "uuid": "740641f7-cd4a-4f21-b1d6-57b3b5ed72d0",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Blackboard.ts": {
+    "time": 1659432791844.2827,
+    "uuid": "a3e5136a-12c9-4bc3-89b3-b89a67659193",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ColourRect.ts": {
+    "time": 1661251362055.811,
+    "uuid": "548e1574-3055-4c33-b315-ba0c4761a326",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/DownloadButton.ts": {
+    "time": 1659432791844.5364,
+    "uuid": "d902d410-2bf9-4a34-afb1-eb4e407bd76f",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ErrorHandling.ts": {
+    "time": 1661251362055.9297,
+    "uuid": "d3fac1bf-e97b-4ac9-a2ae-52ea239af23d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/FontManager.ts": {
+    "time": 1661251362056.3218,
+    "uuid": "bbe5fa15-c60e-44cb-bc9d-4dc5c8e29cef",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GroupTag.ts": {
+    "time": 1659432791844.9207,
+    "uuid": "60f22846-fee7-429f-95f6-359e106a054b",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GroupToggle.ts": {
+    "time": 1659432791845.0413,
+    "uuid": "ced84776-371d-4c75-84ba-78bdde2b1771",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/LatexRenderer.ts": {
+    "time": 1661251362057.05,
+    "uuid": "e9d28a67-f048-4a17-9fa9-a206e4ea18ca",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/LiteEvent.ts": {
+    "time": 1661251362057.179,
+    "uuid": "4ed3a238-068b-4252-b73a-ccea6c85a5ca",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Logger.ts": {
+    "time": 1659432791845.4727,
+    "uuid": "a7bf1fa8-852a-41bb-a676-f4429c6358d7",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/MenuController.ts": {
+    "time": 1659432791845.6138,
+    "uuid": "7df95546-9a4d-48b5-b99e-a699e66ac852",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/NetworkReplicator.ts": {
+    "time": 1661251362057.594,
+    "uuid": "f193bc57-9c46-4526-82cb-c29415e4c80a",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/OptionButton.ts": {
+    "time": 1660035077275.591,
+    "uuid": "81acf683-2929-4cf7-a729-b93cc036ee01",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/OptionData.ts": {
+    "time": 1659432791846.0613,
+    "uuid": "4485f562-0391-4f7a-b929-a2805cc15991",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/OptionItem.ts": {
+    "time": 1659432791846.193,
+    "uuid": "b5f298cb-b6b3-4649-929a-c2bfd7d5d567",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedButton.ts": {
+    "time": 1659432791846.3325,
+    "uuid": "eec4fe97-8484-488e-ba1f-957b426bfddc",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedEditBox.ts": {
+    "time": 1659432791846.4905,
+    "uuid": "e5ad4b5d-14dc-4dd1-b714-2cf0286f1744",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedOptionButton.ts": {
+    "time": 1659432791846.626,
+    "uuid": "1de8108e-2309-4c1e-9c87-78f9c2f22fb9",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedSlider.ts": {
+    "time": 1659432791846.7632,
+    "uuid": "642817d9-7ffe-47af-82fb-c3e9ba61b341",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedSoftEditBox.ts": {
+    "time": 1661251362057.7312,
+    "uuid": "5b9f3326-ded3-4a16-b450-105432fb4038",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedToggle.ts": {
+    "time": 1659432791847.0369,
+    "uuid": "ab73b77e-eba0-41fe-b52b-2822beee4de4",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedUIDrag.ts": {
+    "time": 1661251362057.9849,
+    "uuid": "3060b9fb-fab7-46d9-bd6a-7ce59ba04b63",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedUIPopup.ts": {
+    "time": 1659432791847.3982,
+    "uuid": "fd96562b-12b1-4590-a013-7c49487b9a94",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ResponsiveCanvas.ts": {
+    "time": 1661251362058.3115,
+    "uuid": "62772a76-0190-4fa0-97ce-ac4e21963223",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Screenshot.ts": {
+    "time": 1659432791847.6404,
+    "uuid": "ce2e17cc-3f8f-4cc4-8775-18a92f25929e",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/SoftEditBox.ts": {
+    "time": 1659432791847.8435,
+    "uuid": "7dc07209-0089-485c-b74d-1e891733db9f",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/SoftKey.ts": {
+    "time": 1659432791848.0103,
+    "uuid": "b7099ff4-d01c-4821-ad21-adca927707b5",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/SoftKeypad.ts": {
+    "time": 1659432791848.2014,
+    "uuid": "5b8f8f67-7d14-4d2e-a6d6-69f3c804041c",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/TranslatedLabel.ts": {
+    "time": 1659432791848.3538,
+    "uuid": "f2cd9380-5be3-4907-be77-358ce3e63090",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/TranslatedOptionButton.ts": {
+    "time": 1659432791848.5132,
+    "uuid": "8de42c92-ff85-4281-870d-79bb852d536b",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/TranslatedSprite.ts": {
+    "time": 1659432791848.6733,
+    "uuid": "3a636a5a-945a-4f69-b066-5afd9d22443b",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Translations.ts": {
+    "time": 1661251362058.4358,
+    "uuid": "13f62eed-a683-4e21-af44-60cb380b884d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIAnim.ts": {
+    "time": 1659432791849.013,
+    "uuid": "5b0cface-1079-4fbe-8443-62f6a84ad59e",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIAnimLibrary.ts": {
+    "time": 1661251362058.8616,
+    "uuid": "0386ef3c-34da-403b-a2ef-f535c0c80a73",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIDrag.ts": {
+    "time": 1662535008973.9421,
+    "uuid": "721dedad-12fb-4065-ac73-38a3b270a8ce",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIDrop.ts": {
+    "time": 1662535008974.4824,
+    "uuid": "bf0b8bf6-1997-4fc9-ac3f-31d1f31f28b5",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIPopup.ts": {
+    "time": 1661251362059.9197,
+    "uuid": "b092a0c9-fa10-4c55-a214-a01e7dd3c85d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UITheme.ts": {
+    "time": 1659432791850.3838,
+    "uuid": "9e5674b1-92a9-45e2-863c-af0bcc659635",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIView.ts": {
+    "time": 1661251362060.1194,
+    "uuid": "3b93c281-9cfe-4bf2-8e8e-35bd85f59bdf",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Utils.ts": {
+    "time": 1661251362060.3362,
+    "uuid": "d3365cc0-74af-41f2-8b91-d19760cdd3e2",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/bezier-easings.d.ts": {
+    "time": 1659432791850.862,
+    "uuid": "963f2dac-74f7-4a3a-8859-178ae70cb600",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/bezier-easings.js": {
+    "time": 1659432791851.0623,
+    "uuid": "81b363f7-4542-49b4-9ad9-9939ff9709a7",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/index.ts": {
+    "time": 1661251362060.7356,
+    "uuid": "38327862-5d44-4402-9d82-1c84993aebcd",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex": {
+    "time": 1661251362061.1685,
+    "uuid": "53ef9355-2f7d-4db3-9071-2528d0c5bbf0",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/loglevel.d.ts": {
+    "time": 1659432791857.1274,
+    "uuid": "b88f8eb3-a468-418f-bad4-a66b66420981",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/loglevel.js": {
+    "time": 1659432791857.2883,
+    "uuid": "51c321eb-bf30-4f11-8249-2532a6dbb4f6",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/papaparse.d.ts": {
+    "time": 1659432791857.506,
+    "uuid": "4d19c180-8b5d-4bcf-95e2-c35fd97fe1af",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/papaparse.js": {
+    "time": 1659432791857.7344,
+    "uuid": "4b423460-db4e-4a3d-8b53-b037bbc7ed1b",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/polyglot.d.ts": {
+    "time": 1659432791857.9272,
+    "uuid": "ffe39579-3538-402e-ab52-750514ac67ce",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/polyglot.js": {
+    "time": 1659432791858.0854,
+    "uuid": "2f8aa6a5-aebf-4fbe-829b-6c3e5bfca146",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/webfontloader.d.ts": {
+    "time": 1659432791858.292,
+    "uuid": "a1b99f13-ea2c-441d-8ddd-f60a43a11f14",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/webfontloader.js": {
+    "time": 1659432791858.4744,
+    "uuid": "d0847aee-47ad-4266-be2e-e714bb8c5d26",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sounds/ButtonClick.mp3": {
+    "time": 1659432791860.9976,
+    "uuid": "b4ca1185-43f1-4638-a675-bbbbe4f899e6",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sounds/CorrectAns.mp3": {
+    "time": 1659432791861.18,
+    "uuid": "fec582e2-5b76-44bf-b87f-77587780bd32",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sounds/WrongAns.mp3": {
+    "time": 1659432791861.3577,
+    "uuid": "87b7071c-51c0-48f4-8b91-c40bef3793b0",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons": {
+    "time": 1659432791862.3687,
+    "uuid": "67afed9e-4ae6-4d57-b7cf-71635aaab085",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common": {
+    "time": 1659432791863.757,
+    "uuid": "05b462fd-a579-4116-bb6a-2959966d69f8",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n": {
+    "time": 1659432791863.95,
+    "uuid": "fa56dda8-247f-4bf7-a5dd-2de33c39baee",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/input_box": {
+    "time": 1659432791864.7498,
+    "uuid": "01eb24af-f0dd-4cff-aeb4-bc479596310e",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/BaseButton.prefab": {
+    "time": 1659432791837.2734,
+    "uuid": "151093f0-6229-4f57-a111-41ca87f48260",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/BeginButtonLarge.prefab": {
+    "time": 1659432791837.4246,
+    "uuid": "8cccafc5-8ab8-4706-82e1-b7cf6e405060",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/CheckButton.prefab": {
+    "time": 1659432791837.5767,
+    "uuid": "1d280c31-f802-4f47-99c8-c6b75d6b3701",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/CollectButtonLarge.prefab": {
+    "time": 1659432791837.7363,
+    "uuid": "4dd7066b-ac0e-4f35-a492-aec6336d2b0a",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/CrossButton.prefab": {
+    "time": 1659432791837.9336,
+    "uuid": "1dd191b9-a86d-4f85-a279-6ce1b045c310",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/DownloadButton.prefab": {
+    "time": 1659432791838.067,
+    "uuid": "ea131924-bb34-4acb-9d91-12c22dfec492",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/DownloadButtonLarge.prefab": {
+    "time": 1659432791838.1946,
+    "uuid": "6ca96e97-06f3-4ade-9c6a-abc88d80dc50",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/ForwardButton.prefab": {
+    "time": 1659432791838.3533,
+    "uuid": "5cc6f668-b09d-4490-a6c1-eb0fdc6a8482",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/HomeButton.prefab": {
+    "time": 1659432791838.4912,
+    "uuid": "c503f322-2e1d-487e-a5fb-aeafa5608315",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/HomeButtonLarge.prefab": {
+    "time": 1659432791838.6343,
+    "uuid": "d40bfe88-7cdf-4472-8402-be8e344bc240",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/NextButton.prefab": {
+    "time": 1659432791838.7769,
+    "uuid": "1cce122b-db09-478c-9bab-93380f3cbaed",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/QuestionButton.prefab": {
+    "time": 1659432791838.927,
+    "uuid": "2716cad5-f5cc-4379-9491-3492746812f3",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/ResetButton.prefab": {
+    "time": 1659432791839.0828,
+    "uuid": "abe3325d-3004-490e-8053-113ad4d0495a",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Dropdown/OptionButton.prefab": {
+    "time": 1659432791839.3813,
+    "uuid": "bb3cb70e-1780-4306-b97b-a6fbaa47ee15",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/DeleteKey.prefab": {
+    "time": 1659432791839.7,
+    "uuid": "f86b4b2b-c24e-4650-918c-d8378f8c4235",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/DoneKey.prefab": {
+    "time": 1659432791839.8545,
+    "uuid": "0dffba8e-0f1c-46cf-bbc7-bb108acb5a69",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/EmptyLabel.prefab": {
+    "time": 1659432791840.03,
+    "uuid": "66daa975-00a1-45b8-b532-9fb70d9b7dda",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/SoftEditBox.prefab": {
+    "time": 1659432791840.1804,
+    "uuid": "bf4a47ee-b3de-46eb-9ad5-ad8e92226de1",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/SoftKey.prefab": {
+    "time": 1659432791840.3433,
+    "uuid": "654e2065-16b5-4659-81ff-4b4d2d9da6fd",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_1.prefab": {
+    "time": 1659432791840.922,
+    "uuid": "da8e8106-a20a-4c2c-b124-02f4ed38337f",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_2.prefab": {
+    "time": 1659432791841.1611,
+    "uuid": "94970c54-8ddf-4d85-abb4-b5a34de278c2",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_3.prefab": {
+    "time": 1659432791841.505,
+    "uuid": "0afb7bf8-d718-4c52-b218-2f84541bec80",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_4.prefab": {
+    "time": 1659432791841.7163,
+    "uuid": "cf8adcac-58ef-4d1b-85a6-2e6834bfcbf3",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_5.prefab": {
+    "time": 1659432791841.9243,
+    "uuid": "96702872-1816-49b8-bf84-8cf6ddbc7dcd",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_6.prefab": {
+    "time": 1659432791842.1174,
+    "uuid": "96a7500f-5d46-41ed-b3dd-7d9f87babbf2",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_7.prefab": {
+    "time": 1659432791842.3396,
+    "uuid": "65b93ff6-c361-4e87-a799-4c488c9cb44e",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_8.prefab": {
+    "time": 1659432791842.5327,
+    "uuid": "b924af29-4a89-4dbb-9350-2ecc103fa60b",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page/NavButtons.prefab": {
+    "time": 1659432791842.7798,
+    "uuid": "05595340-562d-4e38-b1ad-49c2e477aa01",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page/Prompts.prefab": {
+    "time": 1659432791842.931,
+    "uuid": "89c425aa-add0-45c5-8a59-b524ba26de4a",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page/QuestionNumber.prefab": {
+    "time": 1659432791843.0627,
+    "uuid": "4d032edf-6431-44fd-885c-c173a8391f4c",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page/Version.prefab": {
+    "time": 1659432791843.1973,
+    "uuid": "bf67450f-d5a5-4788-89fb-bb341447ea22",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Popup/Popup.prefab": {
+    "time": 1661251362055.5132,
+    "uuid": "e0e48da4-9bb1-432c-95be-3bb0c537c7b3",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Toggle/Toggle.prefab": {
+    "time": 1659432791843.671,
+    "uuid": "ab71f700-b0cf-4420-8399-9e2f3d35e341",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/RenderingState.ts": {
+    "time": 1661251362060.865,
+    "uuid": "686992b1-9780-4bec-a88c-2d7eb7d0fbdb",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/VirtualNodeBuilder.ts": {
+    "time": 1661251362061.0073,
+    "uuid": "4b08cdbc-4afe-4108-a497-4027b70e3319",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/classStateMapping.ts": {
+    "time": 1661251362061.2207,
+    "uuid": "5768beb5-3330-4dae-9143-1ad103d59330",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex": {
+    "time": 1659432791855.1304,
+    "uuid": "9a7387e2-b902-42ee-803c-f83a23f444fe",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/styleStateMapping.ts": {
+    "time": 1659432791855.237,
+    "uuid": "ffbbc3ee-6d4e-417e-839c-ed5621badf0d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes": {
+    "time": 1661251362061.3816,
+    "uuid": "d07a9ae5-4b59-4960-93f9-5478bce848e0",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/BackwardButton.png": {
+    "time": 1659432791861.6426,
+    "uuid": "f5de6ca9-99b5-4d73-a105-1a243b8339ca",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/DownArrow.png": {
+    "time": 1659432791861.772,
+    "uuid": "44cc4ba2-7280-470e-9272-4a76bc6df254",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/DropDownButton.png": {
+    "time": 1659432791861.8936,
+    "uuid": "a88f65c2-7740-49f4-b47d-bebbf7ba2687",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/ForwardButton.png": {
+    "time": 1659432791862.005,
+    "uuid": "679ad12a-c596-4cc2-a283-7df7718e7ed4",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/LeftArrow.png": {
+    "time": 1659432791862.1135,
+    "uuid": "752369e7-5569-4091-849f-645c740697ce",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/MenuButton.png": {
+    "time": 1659432791862.2275,
+    "uuid": "88ba7609-77e3-4416-bffd-b98a9c314ef2",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/MenuCrossButton.png": {
+    "time": 1659432791862.3372,
+    "uuid": "fb8e7ff0-75cd-4c02-8712-30aca09e2048",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/back_arrow.png": {
+    "time": 1659432791862.542,
+    "uuid": "ae10c31e-8bb2-46e1-8ae4-480dca7723dc",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/check-mark-64.png": {
+    "time": 1659432791862.6514,
+    "uuid": "de7acd8b-acb5-4563-a29c-c69cfda1977c",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/circle-128.png": {
+    "time": 1659432791862.7737,
+    "uuid": "18e51b20-9bcd-4fde-84ce-c48dae19adf9",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/delete-64.png": {
+    "time": 1659432791862.881,
+    "uuid": "9e156688-e04c-4409-a82e-1c1e0141a2e7",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-16.png": {
+    "time": 1659432791862.992,
+    "uuid": "12fa2976-6016-4fe4-9747-0e37ed820627",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-rounded-256.png": {
+    "time": 1659432791863.12,
+    "uuid": "b1959456-6fe4-4557-a83d-995ae3006135",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-rounded-64.png": {
+    "time": 1659432791863.2463,
+    "uuid": "481f61ce-367f-418e-81a6-effc9697ce71",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-rounded-half-64.png": {
+    "time": 1659432791863.3884,
+    "uuid": "66d2f995-addc-4c51-87d9-6bdb10c3543b",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-rounded-right-flat-64.png": {
+    "time": 1659432791863.5046,
+    "uuid": "9e3f6dd2-4eb5-4669-a07d-4d802fb3231b",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/toggle-check-mark.png": {
+    "time": 1659432791863.617,
+    "uuid": "301286be-8992-4eeb-bf25-318e7eabbbd4",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/triangle-64.png": {
+    "time": 1659432791863.7292,
+    "uuid": "8c2a0e3c-319e-4336-9e88-1529c700220a",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US": {
+    "time": 1659432791864.038,
+    "uuid": "a8a39829-5363-42a2-b8d0-5f39dead1e3c",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/input_box/EditBoxBG.png": {
+    "time": 1659432791864.5947,
+    "uuid": "3230f3d6-5e90-4f67-9e01-969096838e1d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/input_box/OptionButtonLabelBG.png": {
+    "time": 1659432791864.7224,
+    "uuid": "c29db68b-c5a9-4cc8-8365-a42efc17638c",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/README.md": {
+    "time": 1659432791852.2837,
+    "uuid": "c1888464-8545-43e3-a512-b399be22ee64",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/contrib": {
+    "time": 1659432791852.8616,
+    "uuid": "667c9a9b-5c04-4a50-a6f5-cf8ba71b0937",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/katex.d.ts": {
+    "time": 1659432791853.0276,
+    "uuid": "b387571c-656c-467d-a3a9-8a8e69f3ebaa",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/katex.js": {
+    "time": 1659432791855.0698,
+    "uuid": "d52060e2-05d4-49d9-affe-f68a88f76314",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/BoxNode.ts": {
+    "time": 1659432791855.5076,
+    "uuid": "3e2419e4-87cd-494e-9da3-844af0e93c01",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/HPaddingNode.ts": {
+    "time": 1659432791855.6267,
+    "uuid": "0931ad99-cf81-43a3-a384-368bc71d1d1f",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/HorizontalLineNode.ts": {
+    "time": 1659432791855.7507,
+    "uuid": "67464774-843e-4c29-9686-f2d06c9b7fe4",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/SvgNode.ts": {
+    "time": 1661251362061.419,
+    "uuid": "c793cd21-092b-4c1a-853c-8f9c6c99d5f0",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/TextNode.ts": {
+    "time": 1659432791855.9702,
+    "uuid": "7a4c68e0-f085-4e7e-84f7-08f588c4607d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VerticalLineNode.ts": {
+    "time": 1659432791856.0837,
+    "uuid": "5928fd90-ea7f-4141-a17f-ca49f455b6a1",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VerticalList.ts": {
+    "time": 1659432791856.2131,
+    "uuid": "3546040f-f217-4087-9ee6-d51e68025cd8",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VerticalListRow.ts": {
+    "time": 1659432791856.3308,
+    "uuid": "b1e63ae9-74ca-4dfa-9bf9-ab49b2c5e8d6",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VirtualCanvasNode.ts": {
+    "time": 1659432791856.451,
+    "uuid": "690f049b-cd0b-4768-80aa-cd16fa234033",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VirtualContainerNode.ts": {
+    "time": 1659432791856.5676,
+    "uuid": "d42b1772-1f7e-42fe-b6e7-ea7d966771fc",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VirtualStretchyNode.ts": {
+    "time": 1659432791856.6838,
+    "uuid": "3f8feb1b-dfe2-42f7-8ca3-f97d27af9bd5",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/index.ts": {
+    "time": 1659432791856.8008,
+    "uuid": "12fdfdb4-3f13-481d-a422-bd174e7adea2",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/utils.ts": {
+    "time": 1659432791856.928,
+    "uuid": "e2c60159-b4c9-4938-b01e-6af97431355d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US/prompts": {
+    "time": 1659432791864.4075,
+    "uuid": "1648c82d-aa43-4c96-94bc-8b32d952728e",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/contrib/mhchem.js": {
+    "time": 1659432791852.7988,
+    "uuid": "23b9aec5-4604-4c2e-8639-96176cca323c",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US/prompts/SubmitSuccessful.png": {
+    "time": 1659432791864.1008,
+    "uuid": "2b4b20db-8c20-48e9-a783-ff61f406cf57",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US/prompts/ThatsCorrect.png": {
+    "time": 1659432791864.2573,
+    "uuid": "14ceceaf-1a54-4d01-a21f-b117c1961966",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US/prompts/TryAgain.png": {
+    "time": 1659432791864.3804,
+    "uuid": "d23e7f66-520b-41b7-a35f-5caa3ccb6ed3",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs.meta": {
+    "time": 1659432791836.9985
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts.meta": {
+    "time": 1659432791843.7932
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sounds.meta": {
+    "time": 1659432791860.9058
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites.meta": {
+    "time": 1659432791861.4775
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons.meta": {
+    "time": 1659432791837.1082
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Dropdown.meta": {
+    "time": 1659432791839.2175
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad.meta": {
+    "time": 1659432791839.5513
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu.meta": {
+    "time": 1659432791840.5085
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page.meta": {
+    "time": 1659432791842.6763
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Popup.meta": {
+    "time": 1659432791843.317
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Toggle.meta": {
+    "time": 1659432791843.5317
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ASComponent.ts.meta": {
+    "time": 1659432791843.9622
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/AppletConfig.ts.meta": {
+    "time": 1659432791844.0886
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/BiDirectionalMap.ts.meta": {
+    "time": 1659432791844.2212
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Blackboard.ts.meta": {
+    "time": 1659432791844.3413
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ColourRect.ts.meta": {
+    "time": 1659432791844.4705
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/DownloadButton.ts.meta": {
+    "time": 1659432791844.598
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ErrorHandling.ts.meta": {
+    "time": 1659432791844.7263
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/FontManager.ts.meta": {
+    "time": 1659432791844.8567
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GroupTag.ts.meta": {
+    "time": 1659432791844.9795
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GroupToggle.ts.meta": {
+    "time": 1659432791845.1006
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/LatexRenderer.ts.meta": {
+    "time": 1659432791845.27
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/LiteEvent.ts.meta": {
+    "time": 1659432791845.4036
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Logger.ts.meta": {
+    "time": 1659432791845.5388
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/MenuController.ts.meta": {
+    "time": 1659432791845.6738
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/NetworkReplicator.ts.meta": {
+    "time": 1659432791845.8328
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/OptionButton.ts.meta": {
+    "time": 1659432791845.998
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/OptionData.ts.meta": {
+    "time": 1659432791846.1238
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/OptionItem.ts.meta": {
+    "time": 1659432791846.2546
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedButton.ts.meta": {
+    "time": 1659432791846.401
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedEditBox.ts.meta": {
+    "time": 1659432791846.559
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedOptionButton.ts.meta": {
+    "time": 1659432791846.6924
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedSlider.ts.meta": {
+    "time": 1659432791846.8218
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedSoftEditBox.ts.meta": {
+    "time": 1659432791846.9512
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedToggle.ts.meta": {
+    "time": 1659432791847.1099
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedUIDrag.ts.meta": {
+    "time": 1659432791847.285
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ReplicatedUIPopup.ts.meta": {
+    "time": 1661251362058.076
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/ResponsiveCanvas.ts.meta": {
+    "time": 1659432791847.5486
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Screenshot.ts.meta": {
+    "time": 1659432791847.7139
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/SoftEditBox.ts.meta": {
+    "time": 1659432791847.9275
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/SoftKey.ts.meta": {
+    "time": 1659432791848.0842
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/SoftKeypad.ts.meta": {
+    "time": 1659432791848.2795
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/TranslatedLabel.ts.meta": {
+    "time": 1659432791848.4292
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/TranslatedOptionButton.ts.meta": {
+    "time": 1659432791848.5894
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/TranslatedSprite.ts.meta": {
+    "time": 1659432791848.7705
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Translations.ts.meta": {
+    "time": 1659432791848.931
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIAnim.ts.meta": {
+    "time": 1659432791849.0994
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIAnimLibrary.ts.meta": {
+    "time": 1659432791849.3733
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIDrag.ts.meta": {
+    "time": 1659432791849.553
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIDrop.ts.meta": {
+    "time": 1659432791849.7148
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/bezier-easings.d.ts.meta": {
+    "time": 1659432791850.9514
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/bezier-easings.js.meta": {
+    "time": 1659432791851.1733
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIPopup.ts.meta": {
+    "time": 1659432791850.2727
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex.meta": {
+    "time": 1659432791851.4326
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UITheme.ts.meta": {
+    "time": 1659432791850.4604
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIView.ts.meta": {
+    "time": 1659432791850.6172
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Utils.ts.meta": {
+    "time": 1659432791850.786
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/loglevel.d.ts.meta": {
+    "time": 1659432791857.2114
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/loglevel.js.meta": {
+    "time": 1659432791857.3557
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/papaparse.d.ts.meta": {
+    "time": 1659432791857.5815
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/papaparse.js.meta": {
+    "time": 1659432791857.8066
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/polyglot.d.ts.meta": {
+    "time": 1659432791857.9885
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/polyglot.js.meta": {
+    "time": 1659432791858.1504
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/webfontloader.d.ts.meta": {
+    "time": 1659432791858.3506
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/webfontloader.js.meta": {
+    "time": 1659432791858.5461
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/index.ts.meta": {
+    "time": 1659432791851.355
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons.meta": {
+    "time": 1659432791861.559
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common.meta": {
+    "time": 1659432791862.453
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n.meta": {
+    "time": 1659432791863.841
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/input_box.meta": {
+    "time": 1659432791864.4895
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/BaseButton.prefab.meta": {
+    "time": 1659432791837.3464
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/BeginButtonLarge.prefab.meta": {
+    "time": 1659432791837.5051
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/CheckButton.prefab.meta": {
+    "time": 1659432791837.6528
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/CollectButtonLarge.prefab.meta": {
+    "time": 1659432791837.8123
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sounds/ButtonClick.mp3.meta": {
+    "time": 1659432791861.0566
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/CrossButton.prefab.meta": {
+    "time": 1659432791838.003
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/DownloadButton.prefab.meta": {
+    "time": 1659432791838.1296
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sounds/WrongAns.mp3.meta": {
+    "time": 1659432791861.4182
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sounds/CorrectAns.mp3.meta": {
+    "time": 1659432791861.2397
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/DownloadButtonLarge.prefab.meta": {
+    "time": 1659432791838.2764
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/ForwardButton.prefab.meta": {
+    "time": 1659432791838.424
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/HomeButtonLarge.prefab.meta": {
+    "time": 1659432791838.6975
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/NextButton.prefab.meta": {
+    "time": 1659432791838.8496
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/HomeButton.prefab.meta": {
+    "time": 1659432791838.5654
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/QuestionButton.prefab.meta": {
+    "time": 1659432791839.001
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Buttons/ResetButton.prefab.meta": {
+    "time": 1659432791839.152
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Dropdown/OptionButton.prefab.meta": {
+    "time": 1659432791839.4722
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/DoneKey.prefab.meta": {
+    "time": 1659432791839.9182
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/DeleteKey.prefab.meta": {
+    "time": 1659432791839.7805
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/EmptyLabel.prefab.meta": {
+    "time": 1659432791840.1025
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/SoftEditBox.prefab.meta": {
+    "time": 1659432791840.2542
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Keypad/SoftKey.prefab.meta": {
+    "time": 1659432791840.4333
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_1.prefab.meta": {
+    "time": 1659432791841.0137
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_3.prefab.meta": {
+    "time": 1659432791841.5837
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_2.prefab.meta": {
+    "time": 1659432791841.2395
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_4.prefab.meta": {
+    "time": 1659432791841.7952
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_5.prefab.meta": {
+    "time": 1659432791841.9963
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_6.prefab.meta": {
+    "time": 1659432791842.2039
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_7.prefab.meta": {
+    "time": 1659432791842.4146
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Menu/MenuController_8.prefab.meta": {
+    "time": 1659432791842.61
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page/NavButtons.prefab.meta": {
+    "time": 1659432791842.8455
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page/Prompts.prefab.meta": {
+    "time": 1659432791842.995
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page/QuestionNumber.prefab.meta": {
+    "time": 1659432791843.1333
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/RenderingState.ts.meta": {
+    "time": 1659432791851.679
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/VirtualNodeBuilder.ts.meta": {
+    "time": 1659432791851.8726
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex.meta": {
+    "time": 1659432791852.1333
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Page/Version.prefab.meta": {
+    "time": 1659432791843.2578
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Popup/Popup.prefab.meta": {
+    "time": 1659432791843.4712
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes.meta": {
+    "time": 1659432791855.379
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/classStateMapping.ts.meta": {
+    "time": 1659432791852.0623
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/Toggle/Toggle.prefab.meta": {
+    "time": 1659432791843.7324
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/styleStateMapping.ts.meta": {
+    "time": 1659432791855.3054
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/BackwardButton.png.meta": {
+    "time": 1659432791861.7163
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/DownArrow.png.meta": {
+    "time": 1659432791861.8364
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/DropDownButton.png.meta": {
+    "time": 1659432791861.9524
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/ForwardButton.png.meta": {
+    "time": 1659432791862.059
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/LeftArrow.png.meta": {
+    "time": 1659432791862.1711
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/MenuCrossButton.png.meta": {
+    "time": 1659432791862.397
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/back_arrow.png.meta": {
+    "time": 1659432791862.597
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/buttons/MenuButton.png.meta": {
+    "time": 1659432791862.2827
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/circle-128.png.meta": {
+    "time": 1659432791862.8296
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/check-mark-64.png.meta": {
+    "time": 1659432791862.7197
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-16.png.meta": {
+    "time": 1659432791863.0513
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/delete-64.png.meta": {
+    "time": 1659432791862.9363
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-rounded-256.png.meta": {
+    "time": 1659432791863.1887
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-rounded-64.png.meta": {
+    "time": 1659432791863.3108
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US.meta": {
+    "time": 1659432791863.925
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-rounded-half-64.png.meta": {
+    "time": 1659432791863.4492
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/toggle-check-mark.png.meta": {
+    "time": 1659432791863.6748
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/square-rounded-right-flat-64.png.meta": {
+    "time": 1659432791863.5652
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/contrib.meta": {
+    "time": 1659432791852.4548
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/README.md.meta": {
+    "time": 1659432791852.3748
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/katex.d.ts.meta": {
+    "time": 1659432791853.1392
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/katex.js.meta": {
+    "time": 1659432791855.1658
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/BoxNode.ts.meta": {
+    "time": 1659432791855.5674
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/HPaddingNode.ts.meta": {
+    "time": 1659432791855.685
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/HorizontalLineNode.ts.meta": {
+    "time": 1659432791855.8108
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/common/triangle-64.png.meta": {
+    "time": 1659432791863.7874
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/SvgNode.ts.meta": {
+    "time": 1659432791855.9126
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/TextNode.ts.meta": {
+    "time": 1659432791856.0247
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/input_box/EditBoxBG.png.meta": {
+    "time": 1659432791864.6501
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VerticalLineNode.ts.meta": {
+    "time": 1659432791856.1418
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VerticalList.ts.meta": {
+    "time": 1659432791856.2727
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/input_box/OptionButtonLabelBG.png.meta": {
+    "time": 1659432791864.7793
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VerticalListRow.ts.meta": {
+    "time": 1659432791856.3865
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VirtualCanvasNode.ts.meta": {
+    "time": 1659432791856.5076
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US/prompts.meta": {
+    "time": 1659432791864.0085
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VirtualContainerNode.ts.meta": {
+    "time": 1659432791856.6228
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/contrib/mhchem.js.meta": {
+    "time": 1659432791852.9038
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/VirtualStretchyNode.ts.meta": {
+    "time": 1659432791856.7424
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/index.ts.meta": {
+    "time": 1659432791856.859
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/virtualCanvasNodes/utils.ts.meta": {
+    "time": 1659432791857.0408
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US/prompts/SubmitSuccessful.png.meta": {
+    "time": 1659432791864.1567
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US/prompts/TryAgain.png.meta": {
+    "time": 1659432791864.4348
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/sprites/i18n/US/prompts/ThatsCorrect.png.meta": {
+    "time": 1659432791864.313
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/MatchTheFollowing.meta": {
+    "time": 1661251362055.0483
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GameLoading.ts.meta": {
+    "time": 1661251362056.5076
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GeogebraView.ts.meta": {
+    "time": 1661251362056.7021
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GifPlayer.ts.meta": {
+    "time": 1661251362056.8782
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/MatchTheFollowing.ts.meta": {
+    "time": 1661251362057.36
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIDragSwap.ts.meta": {
+    "time": 1661251362059.5898
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/gif.d.ts.meta": {
+    "time": 1661251362060.4678
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/gif.js.meta": {
+    "time": 1661251362060.6272
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/MatchTheFollowing/MatchTheFollowing.prefab.meta": {
+    "time": 1661251362055.358
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/MatchTheFollowing": {
+    "time": 1661251362055.3147,
+    "uuid": "bf54fd5f-edf5-4759-b5e6-62abd71a9451",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GameLoading.ts": {
+    "time": 1661251362056.4167,
+    "uuid": "f6c19afa-a819-4ddc-83f5-0a2dbc14239d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/gif.d.ts": {
+    "time": 1661251362060.4065,
+    "uuid": "fe05cf82-bf46-4d2f-bde7-cb62cc902090",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GeogebraView.ts": {
+    "time": 1661251362056.6243,
+    "uuid": "57f66c4a-5706-4d43-9aad-a5b8e021b1d5",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/GifPlayer.ts": {
+    "time": 1661251362056.802,
+    "uuid": "60d77f06-5409-4141-a043-edf72c65f93d",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/MatchTheFollowing.ts": {
+    "time": 1661251362057.2754,
+    "uuid": "13679c09-ba6e-4613-b98b-7e62dc5b6989",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIDragSwap.ts": {
+    "time": 1661251362059.3386,
+    "uuid": "68ee6242-e31d-4784-b0f2-9536061476b0",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/gif.js": {
+    "time": 1661251362060.566,
+    "uuid": "6c1839ce-9f60-4652-b58d-bf704dbe5881",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/prefabs/MatchTheFollowing/MatchTheFollowing.prefab": {
+    "time": 1661251362055.2524,
+    "uuid": "8154f58f-57c3-4ff4-ad8c-337e75089380",
+    "missing": false
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIDragSort.ts.meta": {
+    "time": 1662535008974.2825
+  },
+  "/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/UIDragSort.ts": {
+    "time": 1662535008974.1296,
+    "uuid": "70dcc613-a184-4a18-8ef5-ea431a82e809",
+    "missing": false
+  }
+}

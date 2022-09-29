@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "compass outline",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 0,
+      "width": 76,
+      "height": 74
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 78,
+      "height": 74
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "4d381724-e598-4e1f-9bbd-0f9a29613b23@6c48a",
+    "packable": true
+  }
+}

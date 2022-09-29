@@ -1,0 +1,4 @@
+{
+  "{src,framework}/**/*.ts": "eslint --cache --fix",
+  "{src,framework}/**/!(*min).{md,js,ts,css}": "prettier --write"
+}

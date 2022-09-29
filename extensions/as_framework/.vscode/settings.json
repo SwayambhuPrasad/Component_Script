@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/*.meta": true
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": { "source.fixAll": true },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+  // "eslint.workingDirectories": [".", "./framework"]
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Check",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 150,
+      "height": 66
+    },
+    "offset": {
+      "x": 0,
+      "y": 2
+    },
+    "originalSize": {
+      "width": 150,
+      "height": 70
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "48688760-4d35-4c69-bb2b-73ff9c0f4085@6c48a",
+    "packable": true
+  }
+}

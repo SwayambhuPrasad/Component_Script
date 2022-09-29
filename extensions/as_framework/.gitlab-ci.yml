@@ -1,0 +1,52 @@
+workflow:
+  rules:
+    # Only execute when a valid version tag like v1.0, 2.3 or similar is given
+    # Required is always one point like 1.0
+    - if: $CI_COMMIT_TAG =~ /^v?[0-9]+[.][0-9]+([.][0-9]+)?$/
+
+cache:
+  paths:
+    - node_modules/
+
+stages:
+  - generate_zip
+  - release
+
+generate_zip:
+  stage: generate_zip
+  image: node:latest
+  before_script:
+    - echo $CI_JOB_ID
+    - echo GE_JOB_ID=$CI_JOB_ID >> generate_executables.env
+    - apt-get update
+    - apt-get install -y zip unzip
+    - npm install
+  script:
+    - echo $CI_COMMIT_TAG
+    - npm run build
+    - ls -la
+    - zip -r as_framework.zip ./@types ./dist ./framework ./node_modules ./static ./package.json
+  artifacts:
+    paths:
+      - as_framework.zip
+    reports:
+      dotenv: generate_executables.env
+
+release:
+  stage: release
+  image: registry.gitlab.com/gitlab-org/release-cli:latest
+  script:
+    - echo 'Running release_job'
+    - echo 'Previous Job ID is'
+    - echo $GE_JOB_ID
+  needs:
+    - job: generate_zip
+      artifacts: true
+  release:
+    name: "Release extension $CI_COMMIT_TAG"
+    description: "Created using release-cli"
+    tag_name: "release-${CI_COMMIT_TAG}"
+    assets:
+      links:
+        - name: "Framework Zip"
+          url: https://gitlab.com/activity_studio_research/as_framework/-/jobs/${GE_JOB_ID}/artifacts/raw/as_framework.zip

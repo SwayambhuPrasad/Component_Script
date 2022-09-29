@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ENG_IN_BEG_M01_C011_PCA_EL_Asset 11",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 594,
+      "height": 136
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 594,
+      "height": 136
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "89d5267e-a8f0-4025-9b0d-fd8788c4bede@6c48a",
+    "packable": true
+  }
+}

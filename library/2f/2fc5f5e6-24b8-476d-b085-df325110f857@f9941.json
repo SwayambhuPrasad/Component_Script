@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SubmitSuccessful",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 226,
+      "height": 60
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 226,
+      "height": 60
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2fc5f5e6-24b8-476d-b085-df325110f857@6c48a",
+    "packable": true
+  }
+}

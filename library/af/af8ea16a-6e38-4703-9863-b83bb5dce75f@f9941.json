@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ENG_IN_ADV_M1_C0_TA_Button_Asset 64 - Copy",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 141,
+      "height": 66
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 141,
+      "height": 66
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "af8ea16a-6e38-4703-9863-b83bb5dce75f@6c48a",
+    "packable": true
+  }
+}

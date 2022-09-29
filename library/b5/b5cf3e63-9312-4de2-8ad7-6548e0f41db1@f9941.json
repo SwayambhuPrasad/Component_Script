@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "telescope-p",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 484,
+      "height": 169
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 484,
+      "height": 169
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b5cf3e63-9312-4de2-8ad7-6548e0f41db1@6c48a",
+    "packable": true
+  }
+}

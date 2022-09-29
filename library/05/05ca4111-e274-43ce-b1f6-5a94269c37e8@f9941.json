@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ENG_IN_ADV_M1_C0_TA_Button_Asset 54",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 141,
+      "height": 66
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 141,
+      "height": 66
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "05ca4111-e274-43ce-b1f6-5a94269c37e8@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "telescope audio",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 484,
+      "height": 117
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 484,
+      "height": 117
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9a57a698-a650-4dc1-931c-c046d471669a@6c48a",
+    "packable": true
+  }
+}

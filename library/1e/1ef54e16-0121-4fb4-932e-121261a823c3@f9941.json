@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Cross",
+    "atlas": "",
+    "rect": {
+      "x": 10,
+      "y": 9,
+      "width": 114,
+      "height": 114
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 133,
+      "height": 132
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1ef54e16-0121-4fb4-932e-121261a823c3@6c48a",
+    "packable": true
+  }
+}

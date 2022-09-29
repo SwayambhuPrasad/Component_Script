@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "OptionButtonLabelBG",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 53,
+      "height": 57
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 53,
+      "height": 57
+    },
+    "rotated": false,
+    "capInsets": [
+      13,
+      13,
+      4,
+      13
+    ],
+    "texture": "c29db68b-c5a9-4cc8-8365-a42efc17638c@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "S03aR",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 380,
+      "height": 118
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 380,
+      "height": 118
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "73f5238e-7762-4964-9dce-07873a2f6ce8@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Apple M1",
+        "version": "Darwin Kernel Version 21.5.0: Tue Apr 26 21:08:29 PDT 2022; root:xnu-8020.121.3~4/RELEASE_ARM64_T8101"
+    },
+    "sceneListMap": {},
+    "deviceMd5": "e180ac12ae052fcb048e0291ca648b08"
+}

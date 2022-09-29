@@ -1,0 +1,310 @@
+18-08-2022 10:07-debug: =================================== Build Task (web-mobile) Start ================================
+18-08-2022 10:07-debug: Start build task, options:{"name":"template-project","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"6ba6908c-1f17-40de-86b3-b9028f88c434","scenes":[{"url":"db://assets/scene.scene","uuid":"6ba6908c-1f17-40de-86b3-b9028f88c434","inBundle":false}],"outputName":"web-mobile","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"ae9f56","services":[]}}}
+18-08-2022 10:07-debug: cocos-service:(onBeforeBuild) start...0%
+18-08-2022 10:07-debug: Build with Cocos Creator 3.5.0
+18-08-2022 10:07-debug: // ---- cocos-service:(onBeforeBuild) ----
+18-08-2022 10:07-debug: Process: heapTotal 236.59MB heapUsed 216.07MB rss 294.49MB
+18-08-2022 10:07-debug: // ---- cocos-service:(onBeforeBuild) success ----
+18-08-2022 10:07-debug: cocos-service:(onBeforeBuild)3%
+18-08-2022 10:07-debug: Query all assets info in project
+18-08-2022 10:07-debug: init custom config: keepNodeUuid: false, useCache: true
+18-08-2022 10:07-debug: BuildAssetLibrary query-assets with assets 415
+18-08-2022 10:07-debug: BuildAssetLibrary initialized with asset 630!
+18-08-2022 10:07-debug:   Number of all scenes: 1
+18-08-2022 10:07-debug: // ---- web-mobile:(onAfterInit) ----
+18-08-2022 10:07-debug: Process: heapTotal 237.00MB heapUsed 218.00MB rss 295.65MB
+18-08-2022 10:07-debug: // ---- web-mobile:(onAfterInit) success ----
+18-08-2022 10:07-debug: web-mobile:(onAfterInit)5%
+18-08-2022 10:07-debug: Reload project scripts start5%
+18-08-2022 10:07-log: // ---- Reload project scripts ----
+18-08-2022 10:07-debug: Process: heapTotal 237.00MB heapUsed 218.02MB rss 295.66MB
+18-08-2022 10:07-debug: reload all scripts.
+18-08-2022 10:07-debug: web-mobile:(onAfterInit) start...3%
+18-08-2022 10:07-debug:   Number of all scripts: 82
+18-08-2022 10:07-debug:   Number of other assets: 709
+18-08-2022 10:07-debug: Incremental keys: 
+18-08-2022 10:07-debug: Set detail map pack:///resolution-detail-map.json: {}
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js" loaded.
+18-08-2022 10:07-debug: Invalidating 'pack:///chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js'
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/a4/a472b6736a76efa54aed4acaf9eb9bb5588772eb.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ColourRect
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/5b/5b01744e2d7dd70b9b34c456dc64c465afff7c18.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/5d/5d6edb63c95512b9351b1539b146578dcb49e89b.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/e0/e01174d8c83716e2898cffb71f8c6cd5ff05048a.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/85/85e6b2ae016cc6bc8c642032cad95e1177d83288.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/f4/f4d8849b4a95693ffe64d33e5b7abd5c67a5abf5.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/eb/eb50f5e3303b9653df9f50f28ee782bdd75f3368.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/59/593ef8f3ef7a25be935463144c499ed507b6fa7c.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/18/18ebff757566037ada5c2714404aadc0b983966a.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/e2/e22c472420a502aa078545710913b1d7eb0ee203.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/0d/0d723fc7f2bcfd91ddd9ecc88c8c42ca38121c3c.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/d0/d0e62c75c68e3174f16c208884b85a2d43951574.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/5f/5fbbe260ed9ca25e5151bedd7aca2b92eeba4278.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register UIView
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/65/65f9cdde3af847e4c94ba6def8b4ab8c72ce7017.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register UIPopup
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/0f/0f3733b3658d5f58f73deea3b7cc18a0c881d27f.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ReplicatedButton
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/c9/c9cc15547fc1d7bad233ca2590bf1924c64334ee.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register AddImage
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/54/547d58997a583171b730104026c713d4eba44cbe.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "cce:/internal/x/editor-exports/cc/editor/populate-internal-constants" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/93/93ed6651580c5a68dd87832f5e190b4bf2554757.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/0e/0e76b67a3c00b435c5f2fcbd8ca6046d6b3f0c4d.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register Audio
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/e5/e5666f95cca6e307a43360213b372075721e3a42.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register Definition
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/af/af89571aa89576832192285f98397b936fb7d559.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register FIB
+18-08-2022 10:07-warn: The type of "FIB.optionLabel" must be CCString, not String.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/9e/9e9cb19ac100495f0f30c4efa33aa63e9333a380.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register GuessTheWord
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/ff/ff99ff2b05c5af2a848bf1b3029cbf9c177f1265.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register MCQ
+18-08-2022 10:07-warn: The type of "MCQ.optionLabel" must be CCString, not String.
+18-08-2022 10:07-warn: The type of "MCQ.answer" must be CCBoolean, not Boolean.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/99/99bb154f1efe382110eb0d78f429e1583f072e4e.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register PickSentence
+18-08-2022 10:07-warn: The type of "PickSentence.questionString" must be CCString, not String.
+18-08-2022 10:07-warn: The type of "PickSentence.optionLabel" must be CCString, not String.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/20/204117cc3c36838d0e37dc4f9c35f086ecbc7c8c.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register Screenshot
+18-08-2022 10:07-debug: [[Executor]] Register MenuController
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/ea/eac822bed9cb69b1b1fc835aa2eebe5046a2416a.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register OptionData
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/3a/3ad3226378353e095dacb78c60bb8bc5dcca3c94.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/cf/cfce1f7a31a79e14c72de478a0de6faa852c3d84.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/d6/d691b2f7a8b4798eac7e83d86d25eed45eb08dae.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register OptionButton
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/4e/4ee53c3baa1fb69b8ee2a77b92f4ab348de2f3ba.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ReplicatedEditBox
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/58/58700754a8a8595fcebfa8d0535633311189b9cb.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ReplicatedOptionButton
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/86/86792df2029c1e7c352a80e45e2a215a6618f7f2.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ReplicatedSlider
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/16/16fc1d750e47c9492cc5787e8a6c182a921d0467.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register SoftKey
+18-08-2022 10:07-debug: [[Executor]] Register OptionItem
+18-08-2022 10:07-debug: [[Executor]] Register SoftKeypad
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/07/07c1bc3ae55c2e4d0338a247369b2208d37a5936.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register SoftEditBox
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/cc/cc0cb03a7e0bd9161ff41c59991b3db4cc897928.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ReplicatedSoftEditBox
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/0b/0be3f9e597a65867801716bac35091142d20486d.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ReplicatedToggle
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/fb/fbceaf27373ca02b18e91517036690d203b5dbcd.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register UIDrop
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/19/19e14e962cc8fff331832a075e46f3b40d4cc877.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register UIDrag
+18-08-2022 10:07-debug: [[Executor]] Register ReplicatedUIDrag
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/65/65e867032a61b4bf265ce8a4d20f475124c582cf.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/ab/ab1638fedfcd5cb76771b446b754d3491bce976f.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/f0/f08993cb263ad5182e44427a73bc1020173295fc.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register DownloadButton
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/d3/d33163c119bda208d19cd100b5e222e31633a8d1.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/09/09443b84d2842245b12f432389f3cca617e885aa.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/b2/b277be1b6e9ad94a2a3b36dcae1161060f53f46c.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register TranslatedLabel
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/5c/5c613705083bda266d8a0ce674c27a11bd0f2ef7.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register TranslatedOptionButton
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/38/381672518adfb24cf70bdc207ae9aecac5248448.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register LanguageSpriteFrame
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/0d/0d22247ed19458328c8e383eb42e7cf8d058fb81.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/1e/1ed75667bcc03bf5d9c8817452704c37483a1ab0.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/4c/4ceb4f8a5248fd17f3bed7ebb179c4735350ab7a.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/7b/7ba09eaad7f06af205df64f5125f424b58aa4096.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/63/636f9ea4b152e08ca92f735a80719c9766f82892.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/30/3005f124ab93955abbc7a2baf7f7f68f94daa39d.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/e9/e902f2ff031168e2b3c870f50f7655c068cb1548.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/f4/f41ab0bb33f5b11030c5d9377e2060e095998de0.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/6c/6ce4184e1dd5a63824015fca97d8addd73e41ae2.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register UIElement
+18-08-2022 10:07-debug: [[Executor]] Register TapToReveal
+18-08-2022 10:07-debug: [[Executor]] Register TranslatedSprite
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/9f/9fe9289a871da2474a48df8bff90ebbb317be352.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/39/3984ed086f5d5151ebc9acdea9a3cbb8f10ce899.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/86/86d51bd70a21d98218ce704659f0d31010b71191.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register Video
+18-08-2022 10:07-warn: The type of "Video.buttonVisible" must be CCBoolean, not Boolean.
+18-08-2022 10:07-warn: The type of "Video.autoPlay" must be CCBoolean, not Boolean.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/de/de707b5520ba971fee39ebf7ce6f8908f9c3e46f.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/4a/4ac81b5c7a6a24d7c98c55e0a62ffb826e385ea8.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/3c/3c23408761c9953b28f68f0c5acdc478b15a9ff5.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/f3/f39d2346695f5f45cf2277360b5e8d0dd77516e7.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register FontData
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/14/14250eac7413500b7d8fff83308f96a22c5bd324.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register FontManager
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/17/17d31f9d546728af74dd141e3b8df2d7d754dee0.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/c4/c4ef2fd3d610e18bdd79241b890248d9474e1c26.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register GroupTag
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/d0/d0c69676b6b085dc21125130b1dd09e4b942aa2c.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register GroupToggle
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/41/4113433a01683664f8b6cb3128ef96d46a3531e9.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/2b/2b10b4227f24ffa1881477ffc7c99fa28df3dda7.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/06/0641e48c954d513e913c7b5ad4a730b48a77e5a6.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/57/5789ad18326aaba11e98e2750b7c30ce09d8fe16.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/76/7667eab9696c47c040fa98475b86c1e92ea2dbb8.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/22/2294f1b3887b50e586594e54e8ef3dbb3035a7aa.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/77/77ec31c8781ae8d5ce86886e7446dbf88dc65122.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/9e/9ea8f89c1fef0a7aa309cbd68dee7f65b6d88ade.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/17/17166e23d1707f4644b17949db200a3c04d1dc7e.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/bd/bd664f3ef0447bdf9438364b0431ffbf1329889f.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/1f/1fc453ff4c40830f603d8052b2f1b5690ddd96da.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/e6/e6c08d35eaf2c195725cd4d10e94e7b609452206.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/43/43f62adce490701a704b41da2ccabd892f27a1a1.js" loaded.
+18-08-2022 10:07-warn: Warning: KaTeX doesn't work in quirks mode. Make sure your website has a suitable doctype.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/e2/e211c4ef5ebbbc49457da4ae69182611aebaee47.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/84/84668d81efd2641905db410fb1c54564881aaff8.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/e3/e360e15c413088dd5c8a7ccf047999a1f90cbc56.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/8b/8b2d231d2d221ca373967f579e1ab7fbedb4920d.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register LatexRenderer
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/1e/1e36b3c20d7e94c5ce3ec583500af291d74c33de.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/ee/ee6db572024775266de1a6a738cf589554c39f28.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/52/52b59abba29edde2fb808a09e62455c62765d270.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/f1/f113c4919271a6e3443ca388f6c0f2c953ab721e.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ReplicatedUIPopup
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/9c/9cd3bdab1118ad34f991bb91037d59aac7f4ccbe.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register ResponsiveCanvas
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/c6/c689ac28ca6700fc2eb81e6b9ad5bfc6868a04e9.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register UIAnim
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/5a/5ac99e50d2181322ab4334ea1d3f5938a5b16b51.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Register UITheme
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/7c/7c054b599d54195416f80473564027aff07f5b59.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/47/4735acdcc7836fab069f142338ed1efed7afffdc.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/ec/ec3431284bb5c0bfc19e3d3d34e5552f4b306145.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/a4/a4b96d8089cbff2a8ea942ed157cdd84c41a2aed.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/90/9024ba85f8e7ef07d2f8f60c550562181426659f.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/b7/b72c89fa42e1266629c7bb9fd73ea9db6c772453.js" loaded.
+18-08-2022 10:07-debug: [[Executor]] Module "pack:///chunks/a4/a472b6736a76efa54aed4acaf9eb9bb5588772eb.js" loaded.
+18-08-2022 10:07-log: // ---- Query asset bundle ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 208.49MB rss 337.94MB
+18-08-2022 10:07-debug: Reload project scripts √6%
+18-08-2022 10:07-debug: Query asset bundle start6%
+18-08-2022 10:07-debug: Query asset bundle √8%
+18-08-2022 10:07-debug: Query and organize assets start8%
+18-08-2022 10:07-log: // ---- Query and organize assets ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 208.52MB rss 337.96MB
+18-08-2022 10:07-debug: Query preload assets from cc.config.json: 
+18-08-2022 10:07-debug: Number of scenes: 1
+18-08-2022 10:07-debug: Number of assets: 36
+18-08-2022 10:07-debug: Number of asset bundle: 1
+18-08-2022 10:07-debug: Query and organize assets √9%
+18-08-2022 10:07-debug: Organize scripts start9%
+18-08-2022 10:07-log: // ---- Organize scripts ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 209.37MB rss 338.27MB
+18-08-2022 10:07-debug: sort script group...
+18-08-2022 10:07-debug: Organize scripts √10%
+18-08-2022 10:07-debug: Organize texture compression tasks start10%
+18-08-2022 10:07-log: // ---- Organize texture compression tasks ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 209.43MB rss 338.27MB
+18-08-2022 10:07-debug: Number of image-compress task: 0
+18-08-2022 10:07-debug: builder.tasks.sort_json start11%
+18-08-2022 10:07-log: // ---- builder.tasks.sort_json ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 209.53MB rss 338.77MB
+18-08-2022 10:07-debug: Number of json group: 1
+18-08-2022 10:07-debug: builder.tasks.sort_json √12%
+18-08-2022 10:07-debug: Merging Texture2D json start12%
+18-08-2022 10:07-log: // ---- Merging Texture2D json ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 209.57MB rss 338.77MB
+18-08-2022 10:07-debug: Merging Texture2D json √14%
+18-08-2022 10:07-debug:  start14%
+18-08-2022 10:07-log: // ----  ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 209.59MB rss 338.77MB
+18-08-2022 10:07-debug:  √15%
+18-08-2022 10:07-debug: web-mobile:(onBeforeBuildAssets) start...15%
+18-08-2022 10:07-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 209.61MB rss 338.79MB
+18-08-2022 10:07-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+18-08-2022 10:07-debug: web-mobile:(onBeforeBuildAssets)18%
+18-08-2022 10:07-debug:  start18%
+18-08-2022 10:07-log: // ----  ----
+18-08-2022 10:07-debug: Process: heapTotal 241.41MB heapUsed 209.66MB rss 338.79MB
+18-08-2022 10:07-debug: builder.tasks.sort_json does not defined in i18n
+18-08-2022 10:07-debug: Organize texture compression tasks √11%
+18-08-2022 10:07-debug: Build script18%
+18-08-2022 10:07-debug: Process: heapTotal 252.27MB heapUsed 234.74MB rss 179.36MB
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/bezier-easings.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/entry-common.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/index.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/katex.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/loglevel.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/contrib/mhchem.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/nbind.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/papaparse.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/polyglot.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/webfontloader.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/YGEnums.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/katex.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/loglevel.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/papaparse.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/polyglot.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/webfontloader.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/YGEnums.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/entry-common.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/index.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/nbind.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/contrib/mhchem.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/bezier-easings.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/loglevel.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/webfontloader.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/loglevel.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/polyglot.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/papaparse.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/bezier-easings.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/index.js'
+18-08-2022 10:07-debug: Create cjs interop url for 'file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/katex.js'
+18-08-2022 10:07-error: [BABEL] Note: The code generator has deoptimised the styling of /file:/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/latex/katex/katex.js as it exceeds the max of 500KB.
+18-08-2022 10:07-error: [BABEL] Note: The code generator has deoptimised the styling of /file:/Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/yoga-layout/nbind.js as it exceeds the max of 500KB.
+18-08-2022 10:07-warn: [[Build.Script.Rollup]] Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+18-08-2022 10:07-warn: [[Build.Script.Rollup]] Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+18-08-2022 10:07-error: Error: 'UIView' is not exported by file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/index.ts, imported by file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/assets/TapToReveal/TapToReveal.ts
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:5265:30)
+    at Module.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:9842:16)
+    at handleMissingExport (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:9731:28)
+    at Module.traceVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:10235:24)
+    at ModuleScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:8754:39)
+    at FunctionScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+    at ChildScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+    at FunctionScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+    at ChildScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+    at FunctionScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+18-08-2022 10:07-debug: 'UIView' is not exported by file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/index.ts, imported by file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/assets/TapToReveal/TapToReveal.ts18%
+18-08-2022 10:07-error: Error: 'UIView' is not exported by file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/index.ts, imported by file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/assets/TapToReveal/TapToReveal.ts
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:5265:30)
+    at Module.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:9842:16)
+    at handleMissingExport (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:9731:28)
+    at Module.traceVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:10235:24)
+    at ModuleScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:8754:39)
+    at FunctionScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+    at ChildScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+    at FunctionScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+    at ChildScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+    at FunctionScope.findVariable (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/rollup/dist/shared/rollup.js:2782:38)
+18-08-2022 10:07-warn: [[Build.Script.Rollup]] Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+18-08-2022 10:07-warn: [[Build.Script.Rollup]] Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+18-08-2022 10:07-warn: [[Build.Script.Rollup]] Circular dependency: file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Logger.ts -> file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/NetworkReplicator.ts -> file:///Users/swayambhupanda/Documents/GitHub/applet-framework-demo/extensions/as_framework/framework/assets/scripts/Logger.ts

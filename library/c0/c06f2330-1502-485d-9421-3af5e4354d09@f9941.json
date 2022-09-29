@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ThatsCorrect",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 274,
+      "height": 59
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 274,
+      "height": 59
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c06f2330-1502-485d-9421-3af5e4354d09@6c48a",
+    "packable": true
+  }
+}

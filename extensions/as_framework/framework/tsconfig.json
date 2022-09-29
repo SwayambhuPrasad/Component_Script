@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2015",
+    "strict": true,
+    "types": ["../@types/cc", "../@types/cc.env", "../@types/jsb"],
+    "paths": {
+      "db://as_framework/*": ["./assets/*"]
+    },
+    "experimentalDecorators": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["assets/**/*.ts", "./AppletController.ts"]
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Asset CA1 (44)",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 4,
+      "width": 175,
+      "height": 54
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 178,
+      "height": 61
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ec671d00-05f7-475e-9609-9b1eb94cc708@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "optiongreen",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 4,
+      "width": 567,
+      "height": 113
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 575,
+      "height": 121
+    },
+    "rotated": false,
+    "capInsets": [
+      54,
+      25,
+      38,
+      35
+    ],
+    "texture": "3b27e5eb-ad19-4454-8c8b-f833b3018f79@6c48a",
+    "packable": true
+  }
+}

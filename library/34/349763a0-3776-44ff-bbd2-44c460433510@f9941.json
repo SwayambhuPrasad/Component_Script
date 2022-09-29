@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "map outline",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 201,
+      "height": 218
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 201,
+      "height": 218
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "349763a0-3776-44ff-bbd2-44c460433510@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mirror outline",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 0,
+      "width": 155,
+      "height": 61
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 156,
+      "height": 61
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a3743d2b-7aa5-4b14-8b0f-29a429e787d4@6c48a",
+    "packable": true
+  }
+}

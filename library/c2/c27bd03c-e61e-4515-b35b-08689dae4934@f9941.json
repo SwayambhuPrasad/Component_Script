@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ENG_IN_ADV_M1_C0_TA_23",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 689,
+      "height": 1139
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 689,
+      "height": 1139
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c27bd03c-e61e-4515-b35b-08689dae4934@6c48a",
+    "packable": true
+  }
+}

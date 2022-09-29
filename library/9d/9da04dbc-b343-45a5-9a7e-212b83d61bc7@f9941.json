@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ENG_IN_BEG_C9_WT (1)_ENG_IN_BEG_C9_WT_08",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 688,
+      "height": 1138
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 688,
+      "height": 1138
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9da04dbc-b343-45a5-9a7e-212b83d61bc7@6c48a",
+    "packable": true
+  }
+}

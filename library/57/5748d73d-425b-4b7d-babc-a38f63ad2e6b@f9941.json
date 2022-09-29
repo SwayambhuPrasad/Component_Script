@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Asset 5",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 4,
+      "width": 519,
+      "height": 294
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 525,
+      "height": 301
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5748d73d-425b-4b7d-babc-a38f63ad2e6b@6c48a",
+    "packable": true
+  }
+}
